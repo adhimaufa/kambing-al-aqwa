@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/kambing-al-aqwa/static/css/main.aba546d4.chunk.css",
+    "main.js": "/kambing-al-aqwa/static/js/main.0af7892b.chunk.js",
+    "main.js.map": "/kambing-al-aqwa/static/js/main.0af7892b.chunk.js.map",
+    "runtime-main.js": "/kambing-al-aqwa/static/js/runtime-main.cc91feb4.js",
+    "runtime-main.js.map": "/kambing-al-aqwa/static/js/runtime-main.cc91feb4.js.map",
+    "static/js/2.24844926.chunk.js": "/kambing-al-aqwa/static/js/2.24844926.chunk.js",
+    "static/js/2.24844926.chunk.js.map": "/kambing-al-aqwa/static/js/2.24844926.chunk.js.map",
+    "index.html": "/kambing-al-aqwa/index.html",
+    "static/css/main.aba546d4.chunk.css.map": "/kambing-al-aqwa/static/css/main.aba546d4.chunk.css.map",
+    "static/js/2.24844926.chunk.js.LICENSE.txt": "/kambing-al-aqwa/static/js/2.24844926.chunk.js.LICENSE.txt",
+    "static/media/kambing-anak.png": "/kambing-al-aqwa/static/media/kambing-anak.95657265.png",
+    "static/media/kambing-cewe.png": "/kambing-al-aqwa/static/media/kambing-cewe.8ea9302d.png",
+    "static/media/kambing-coklat.8e739f83.png": "/kambing-al-aqwa/static/media/kambing-coklat.8e739f83.png",
+    "static/media/kambing-hitam.a12db6a1.png": "/kambing-al-aqwa/static/media/kambing-hitam.a12db6a1.png",
+    "static/media/kambing-makan.a3a8af83.webp": "/kambing-al-aqwa/static/media/kambing-makan.a3a8af83.webp",
+    "static/media/kambing.e38721bc.mp4": "/kambing-al-aqwa/static/media/kambing.e38721bc.mp4",
+    "static/media/svg3.svg": "/kambing-al-aqwa/static/media/svg3.76bc186f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc91feb4.js",
+    "static/js/2.24844926.chunk.js",
+    "static/css/main.aba546d4.chunk.css",
+    "static/js/main.0af7892b.chunk.js"
+  ]
+}
